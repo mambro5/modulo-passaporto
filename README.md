@@ -5,7 +5,7 @@ Modulo 308 per la richiesta di passaporto italiano, in pdf compilabile e pronto 
 Il modulo vuoto disponibile sul sito della Polizia di Stato, così come quello prodotto dalla piattaforma PassaportOnline, ha una risoluzione bassa. Inoltre, alcuni dati vengono inseriti senza rispettare lo spazio imposto dai riquadri.
 
 ## Come si usa
-Scarica il pdf qui sopra e aprilo con Adobe Reader per compilarlo. Tutto qui :)
+Scarica il [file pdf](https://github.com/mambro5/modulo-passaporto/blob/main/Modulo%20308%20maggiorenni.pdf) qui sopra e aprilo con Adobe Reader per compilarlo. Tutto qui :)
 
 ## ⚠️ Leggete attentamente
 Si tratta di un'iniziativa personale. Le società e i marchi citati o utilizzati sono estranei a questo progetto, che non è affiliato, né approvato o sponsorizzato da tali marchi.
